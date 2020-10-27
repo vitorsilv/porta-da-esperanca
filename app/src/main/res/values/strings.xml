@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PortaDaEsperanca</string>
+    <string name="erro_req">Erro na requisição</string>
+    <string name="ola">Bem-vindo ao Porta da Esperança</string>
+    <string name="escolher">Escolha uma porta de 1 a 10</string>
+    <string name="abrir">Abrir a porta</string>
+    <string name="premio">Seu premio é:</string>
+    <string name="um_dez">1 a 10</string>
+    <string name="um_dez_erro">Apenas números de 1 a 10</string>
+</resources>
